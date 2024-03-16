@@ -1,0 +1,7 @@
+<h1>Information on Whales</h1>
+
+<p>For more information on our conservation activities and which Whales we study,
+see our <a href="whales.html">Whales page</a>.</p>
+
+<p>If you want to ask our team more questions, feel free to <a href="mailto:email@example.com">email us</a>.</p>
+    

@@ -1,0 +1,13 @@
+<h1>Advanced text semantics</h1>
+
+<p>Let's start with a quote:</p>
+<blockquote cite="https://developer.mozilla.org/en-US/docs/Learn/Accessibility">
+
+
+<p><abbr title="hypertext markup language">HTML</abbr>, Hypertext Markup Language is by default accessible, if used correctly.</p>
+</blockquote>
+<p><abbr title="cascading style sheets">CSS</abbr> can also be used to make web pages more, or less, accessible.</p>
+
+<p>Chemical Formulae: H2O (Water), C2H6O (Ethanol).</p>
+
+<p>Dates: <time datetime="2019-12-25">December 25<sup>th</sup> 2019</time> (Christmas Day),<time datetime="2019-11-2"> November 2<sup>nd</sup> 2019</time> (Día de los Muertos).</p>

@@ -1,0 +1,17 @@
+
+let season = 'summer';
+let response;
+
+// Add your code here
+response = 
+  season === 'summer' ? 'It\'s summer.' :
+  season === 'winter' ? 'It\'s winter.' :
+  'I don\'t know what the season is.'
+// Don't edit the code below here!
+
+const section = document.querySelector('.preview');
+section.innerHTML = ' ';
+let para1 = document.createElement('p');
+para1.textContent = response;
+section.appendChild(para1);
+    

@@ -1,0 +1,15 @@
+
+// Add your code here
+myArray = ['1','2','3'];
+myArray[0]=4;
+myArray[1]=5;
+myArray.unshift('6')
+
+// Don't edit the code below here!
+
+section.innerHTML = ' ';
+let para1 = document.createElement('p');
+para1.textContent = `Array: ${ myArray }`;
+
+section.appendChild(para1);
+    
