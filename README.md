@@ -1,4 +1,7 @@
-Lab 4:
- zad1: https://playcode.io/1851091
- zad2: https://playcode.io/1851087
- zad3: https://playcode.io/1851088
+# Lab 4
+
+## Zadania
+
+- **Zadanie 1:** [Rozwiązanie - PlayCode](https://playcode.io/1851091)
+- **Zadanie 2:** [Rozwiązanie - PlayCode](https://playcode.io/1851087)
+- **Zadanie 3:** [Rozwiązanie - PlayCode](https://playcode.io/1851088)
